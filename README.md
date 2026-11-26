@@ -1,3 +1,7 @@
+[![make.fun · u-motasimfuad-the-dog-reviews-the-mailman-87608f85](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
+[![rank](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/Ikball53/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/rank.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
+[![reward](https://make.fun/badge/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/Ikball53/u-motasimfuad-the-dog-reviews-the-mailman-87608f85/reward.svg)](https://make.fun/bounty/u-motasimfuad-the-dog-reviews-the-mailman-87608f85?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-the-dog-reviews-the-mailman-87608f85)
+
 # The Dog Reviews the Mailman
 
 A make.fun one-liner entry: one funny one-line review that a dog gives the
